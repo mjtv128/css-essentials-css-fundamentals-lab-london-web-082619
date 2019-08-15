@@ -31,7 +31,8 @@ p#featured-property{
 }
 
 #details{
-  position: inline;
+  position: fixed;
+  display: inline-block;
   left: 0;
   bottom: 0;
   width: 100%;
