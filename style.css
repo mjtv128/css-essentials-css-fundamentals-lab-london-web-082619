@@ -31,10 +31,10 @@ p#featured-property{
 }
 
 #details{
-  position: absolute;
-  display: inline-block;
-  bottom: 0;
-  width: 100%;
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
 }
 
 
